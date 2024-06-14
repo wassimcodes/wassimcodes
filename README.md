@@ -9,7 +9,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UC2QMwZIIqTGPIH0ZSqWJ1EQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamwassim" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wassim-ouled-mohamed-0519a2312/" target="_blank">
+<a href="https://www.linkedin.com/in/wassim-ouled-mohamed/" target="_blank">
     <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg?raw=true" alt="Wassim Ouled Mohamed" height="30" width="40" />
 </a>
 </p>
