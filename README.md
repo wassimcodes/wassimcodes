@@ -1,6 +1,6 @@
 # **Who am I?**
 
-- I'm a software engineering student currently pursuing my studies at [Superior Technology School](https://www.etsmtl.ca) in Montreal, Canada.
+- I'm a game programming student currently pursuing my studies in Montreal, CA.
 - I have experience developing video games using engines like [Unity Engine](https://unity.com) and [Unreal Engine](https://www.unrealengine.com/en-US).
 - I’ve worked on [different machine learning models](https://www.kaggle.com/wassimouledmohamed) utilizing **Python** with libraries such as Scikit-learn and Keras.
 - Currently, my focus is on building games from scratch using C++ and low-level APIs/Libraries like **OpenGL**, **SDL2**. 
