@@ -1,7 +1,8 @@
 # **Who am I?**
 
 - I'm a game programming student currently pursuing my studies in Montreal, CA.
-- I have experience developing video games using Unity, Unreal Engine 4 and 5, SDL2, and OpenGL.
+- I have experience developing video games using Unity, Unreal Engine 4 and 5.
+- I have experience with frameworks and APIs including OpenGL, SDL2, and ImGui.
 - I’ve worked on [different machine learning models](https://www.kaggle.com/wassimouledmohamed) utilizing **Python** with libraries such as Scikit-learn and Keras.
 - I document and share my process through commentated YouTube videos.
 
