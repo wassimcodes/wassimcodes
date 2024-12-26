@@ -2,7 +2,7 @@
 
 - I'm a game programming student currently pursuing my studies in Montreal, CA.
 - I have experience developing video games using Unity, Unreal Engine 4 and 5.
-- I have experience with frameworks and APIs including OpenGL, SDL2, and ImGui.
+- I have experience with frameworks and APIs including OpenGL, Raylib, SDL2, and ImGui.
 - I document and share my process through commentated YouTube videos.
 
 <h3 align="left">Socials:</h3>
