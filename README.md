@@ -1,7 +1,7 @@
 # **Who am I?**
 
 - Gameplay programmer with experience in C++ and C#.
-- Skilled in coding shaders.
+- Familiar with coding shaders.
 - Successfully shipped a full game.
 - Passionate about creating engaging gameplay experiences with polished visuals.
 
