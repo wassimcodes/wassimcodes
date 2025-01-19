@@ -1,8 +1,9 @@
 # **Who am I?**
 
-- Experienced shader programmer with a focus on creating custom shaders.
-- Proficient in shader languages such as HLSL and Unity's Shader Graph.
-- Active in documenting my development process through detailed YouTube tutorials and devlogs.
+- Gameplay programmer with experience in C++ and C#.
+- Skilled in coding shaders.
+- Successfully shipped a full game.
+- Passionate about creating engaging gameplay experiences with polished visuals.
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -20,6 +21,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://static.wikia.nocookie.net/logopedia/images/c/ce/Unity_%28Icon%29.svg/revision/latest?cb=20210722101017" alt="unity" width="40" height="40"/> 
+  </a> 
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn2.steamgriddb.com/logo_thumb/598fb37d8e3a1f127b3ba7700febc92e.png" alt="unreal" width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
@@ -28,12 +35,6 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
   </a> 
 </p>
 
