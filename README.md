@@ -1,7 +1,7 @@
 # **Who am I?**
 
 - Game programmer with experience in C++ and C#.
-- Experienced with Unreal Engine and Unity.
+- Experience with Unreal Engine and Unity.
 - Passionate about making custom shaders.
 - Successfully shipped a full game.
 
