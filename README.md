@@ -2,7 +2,7 @@
 
 - Experienced shader programmer with a focus on creating custom shaders.
 - Proficient in shader languages such as HLSL and Unity's Shader Graph.
-- Active in documenting shader development process through detailed YouTube tutorials and devlogs.
+- Active in documenting my development process through detailed YouTube tutorials and devlogs.
 
 <h3 align="left">Socials:</h3>
 <p align="left">
