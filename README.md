@@ -1,9 +1,8 @@
 # **Who am I?**
 
-- I'm a game programming student currently pursuing my studies in Montreal, CA.
-- I have experience developing video games using Unity, Unreal Engine 4 and 5.
-- I have experience with frameworks and APIs including OpenGL, Raylib, SDL2, and ImGui.
-- I document and share my process through commentated YouTube videos.
+- Experienced shader programmer with a focus on creating custom shaders.
+- Proficient in shader languages such as HLSL and Unity's Shader Graph.
+- Active in documenting shader development process through detailed YouTube tutorials and devlogs.
 
 <h3 align="left">Socials:</h3>
 <p align="left">
