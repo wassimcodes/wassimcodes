@@ -1,9 +1,9 @@
 # **Who am I?**
 
-- Gameplay programmer with experience in C++ and C#.
-- Familiar with coding shaders.
+- Game programmer with experience in C++ and C#.
+- Experienced with APIs and libraries such as OpenGL, Raylib, GLFW, ImGui and SDL2.
+- Experienced with Unreal Engine and Unity.
 - Successfully shipped a full game.
-- Passionate about creating engaging gameplay experiences with polished visuals.
 
 <h3 align="left">Socials:</h3>
 <p align="left">
