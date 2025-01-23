@@ -6,18 +6,15 @@
 - Successfully shipped a cute game.
 
 <h3 align="left">Socials:</h3>
-<p align="left">
-  <a href="https://www.youtube.com/channel/UC2QMwZIIqTGPIH0ZSqWJ1EQ" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamwassim" height="30" width="40" />
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.youtube.com/channel/UC2QMwZIIqTGPIH0ZSqWJ1EQ" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamwassim" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/wassim-ouled-mohamed/" target="_blank">
-    <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="Wassim Ouled Mohamed" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/wassim-ouled-mohamed/" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="Wassim Ouled Mohamed" height="30" width="40" />
   </a>
-  <a href="https://iamwassim.itch.io" target="_blank">
-    <img align="center" src="https://github.com/itchio/itch/blob/master/src/static/images/logos/itchio-textless-pink.svg" alt="Wassim Ouled Mohamed" height="30" width="30" />
-  </a>
-  <a href="mailto:wassimcontact@proton.me" target="_blank">
-    <img align="center" src="https://www.pngall.com/wp-content/uploads/15/Mail-PNG-Image-HD.png" alt="Wassim Ouled Mohamed" height="35" width="55" />
+  <a href="https://iamwassim.itch.io" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/itchio/itch/blob/master/src/static/images/logos/itchio-textless-pink.svg" alt="Wassim Ouled Mohamed" height="30" width="30" />
   </a>
 </p>
 
