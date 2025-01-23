@@ -59,7 +59,7 @@
 <a href="https://www.youtube.com/watch?v=UJ8tBZ8AvoI" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" alt="Geometry Dash Tribute" width="375" height="250" />
     </a>
-    <h4>Drawing Software: C++, OpenGL, ImGui, GLFW3 </h4>
+    <h4>Drawing Software: C++, OpenGL, GLSL ImGui, GLFW3 </h4>
   </div>
 </div>
 
