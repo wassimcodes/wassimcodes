@@ -41,5 +41,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassimcodes&layout=compact)](https://github.com/wassimcodes/github-readme-stats)
 
-
+<h3 align="left">Projects:</h3> 
+<a href="https://iamwassim.itch.io/greg-the-glider" target="_blank"> <img src="https://img.itch.zone/aW1nLzE5NDkxMTU5LnBuZw==/315x250%23c/ekUuxe.png" alt="Greg the Glider" width="315" height="250" /> </a>
 
