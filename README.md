@@ -41,4 +41,26 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassimcodes&layout=compact)](https://github.com/wassimcodes/github-readme-stats)
 
-<h3 align="left">Projects:</h3> <div style="display: flex; justify-content: space-around; margin-bottom: 20px;"> <div style="text-align: center;"> <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank"> <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GregCover2-modified.png?raw=true" alt="Greg the Glider" width="315" height="250" /> </a> <h4>Greg the Glider</h4> <p>Take flight in this cute, relaxing game where you control Greg, a lovable glider, through a cozy world filled with exciting challenges. Designed to deliver a fun and lighthearted gaming experience, Greg the Glider showcases a focus on polished mechanics, charming visuals, and engaging gameplay.</p> </div> <div style="text-align: center;"> <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank"> <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" alt="Geometry Dash Tribute" width="315" height="250" /> </a> <h4>Geometry Dash 1.11 Tribute</h4> <p>A tribute to one of the most iconic games, this project recreates the nostalgic experience of Geometry Dash 1.11 while adding my personal touch to the visuals and mechanics. It’s a perfect showcase of my passion for dynamic movement and responsive gameplay design.</p> </div> </div>
+<h3 align="left">Projects:</h3>
+<div style="display: flex; gap: 20px; text-align: center;">
+  <div>
+    <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GregCover2-modified.png?raw=true" alt="Greg the Glider" width="375" height="250" />
+      </a>
+      <h4>Greg the Glider: Unity, C#, Shader Graph, Blender, Substance Painter</h4>
+  </div>
+  <div>
+    <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" alt="Geometry Dash Tribute" width="375" height="250" />
+    </a>
+    <h4>Geometry Dash: C++, SDL2 </h4>
+  </div>
+</div>
+<a href="https://www.youtube.com/watch?v=UJ8tBZ8AvoI" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" alt="Geometry Dash Tribute" width="375" height="250" />
+    </a>
+    <h4>Geometry Dash: C++, SDL2 </h4>
+  </div>
+</div>
+
+
