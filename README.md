@@ -53,13 +53,13 @@
     <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" alt="Geometry Dash Tribute" width="375" height="250" />
     </a>
-    <h4>Geometry Dash: C++, SDL2 </h4>
+    <h4>Geometry Dash: C++, SDL2,  </h4>
   </div>
 </div>
 <a href="https://www.youtube.com/watch?v=UJ8tBZ8AvoI" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" alt="Geometry Dash Tribute" width="375" height="250" />
     </a>
-    <h4>Geometry Dash: C++, SDL2 </h4>
+    <h4>Drawing Software: C++, OpenGL, ImGui, GLFW3 </h4>
   </div>
 </div>
 
