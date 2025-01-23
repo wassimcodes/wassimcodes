@@ -6,21 +6,20 @@
 - Successfully shipped a cute game.
 
 <h3 align="left">Socials:</h3>
+<div style="display: flex; justify-content: space-between; width: 160px;">
   <a href="https://www.youtube.com/channel/UC2QMwZIIqTGPIH0ZSqWJ1EQ" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamwassim" style="width: 40px; height: 30px; object-fit: contain;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="iamwassim" style="width: 30px; height: 30px; object-fit: contain;" />
   </a>
   <a href="https://www.linkedin.com/in/wassim-ouled-mohamed/" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="Wassim Ouled Mohamed" style="width: 40px; height: 30px; object-fit: contain;" />
   </a>
   <a href="mailto:wassimcontact@proton.me" target="_blank" style="text-decoration: none;">
-    <img src="https://freepngimg.com/download/gmail/66572-google-icons-computer-logo-email-gmail.png" alt="iamawssimd" style="width: 30px; height: 30px; object-fit: contain;" />
+    <img src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="iamawssimd" style="width: 30px; height: 30px; object-fit: contain;" />
   </a>
   <a href="https://iamwassim.itch.io" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/itchio/itch/blob/master/src/static/images/logos/itchio-textless-pink.svg" alt="Wassim Ouled Mohamed" style="width: 30px; height: 30px; object-fit: contain;" />
-  
-
-
-
+  </a>
+</div>
 
 
 
