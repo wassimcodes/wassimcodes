@@ -6,17 +6,20 @@
 - Successfully shipped a cute game.
 
 <h3 align="left">Socials:</h3>
-<p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.youtube.com/channel/UC2QMwZIIqTGPIH0ZSqWJ1EQ" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamwassim" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamwassim" style="width: 40px; height: 30px; object-fit: contain;" />
   </a>
   <a href="https://www.linkedin.com/in/wassim-ouled-mohamed/" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="Wassim Ouled Mohamed" height="30" width="40" />
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="Wassim Ouled Mohamed" style="width: 40px; height: 30px; object-fit: contain;" />
+  </a>
+  <a href="mailto:wassimcontact@proton.me" target="_blank" style="text-decoration: none;">
+    <img src="https://freepngimg.com/download/gmail/66572-google-icons-computer-logo-email-gmail.png" alt="iamawssimd" style="width: 30px; height: 30px; object-fit: contain;" />
   </a>
   <a href="https://iamwassim.itch.io" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/itchio/itch/blob/master/src/static/images/logos/itchio-textless-pink.svg" alt="Wassim Ouled Mohamed" height="30" width="30" />
-  </a>
-</p>
+    <img src="https://github.com/itchio/itch/blob/master/src/static/images/logos/itchio-textless-pink.svg" alt="Wassim Ouled Mohamed" style="width: 30px; height: 30px; object-fit: contain;" />
+  
+
+
 
 
 
