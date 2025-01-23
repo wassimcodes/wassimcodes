@@ -42,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassimcodes&layout=compact)](https://github.com/wassimcodes/github-readme-stats)
 
 <h3 align="left">Projects:</h3> 
-<a href="https://iamwassim.itch.io/greg-the-glider" target="_blank"> <img src="https://img.itch.zone/aW1nLzE5NDkyNDQwLnBuZw==/315x250%23c/ELQcRu.png" alt="Greg the Glider" width="315" height="250" /> </a>
+<a href="https://iamwassim.itch.io/greg-the-glider" target="_blank"> <img src="file:///C:/Users/woule/Pictures/GithubProjects/GregCover2-modified.png" alt="Greg the Glider" width="315" height="250" /> </a>
 
 <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank"> <img src="https://i.ytimg.com/an_webp/LXDMVYJXyZs/mqdefault_6s.webp?du=3000&sqp=CKe9ybwG&rs=AOn4CLARrMrBy5uJn8eXAO5l3VQ3pPi5SA" alt="Greg the Glider" width="315" height="250" /> </a>
 
