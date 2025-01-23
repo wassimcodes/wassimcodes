@@ -52,24 +52,29 @@
     </h4>
   </div>
   <div>
-    <a href="https://github.com/wassimcodes/GeometryDashSDL2" target="_blank">
+    <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" alt="Geometry Dash Tribute" width="375" height="250" />
     </a>
     <h4 style="margin: 10px 0; font-weight: bold;">
-      Geometry Dash: 
+      <a href="https://github.com/wassimcodes/GeometryDashSDL2" target="_blank" style="color: inherit; text-decoration: none;">
+        Geometry Dash:
+      </a>
       <span style="font-weight: normal; font-size: 0.9em;">C++, SDL2</span>
     </h4>
   </div>
   <div>
-    <a href="https://github.com/wassimcodes/DrawingSoftware" target="_blank">
+    <a href="https://www.youtube.com/watch?v=UJ8tBZ8AvoI" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" alt="Drawing Software" width="375" height="250" />
     </a>
     <h4 style="margin: 10px 0; font-weight: bold;">
-      Drawing Software: 
+      <a href="https://github.com/wassimcodes/DrawingSoftware" target="_blank" style="color: inherit; text-decoration: none;">
+        Drawing Software:
+      </a>
       <span style="font-weight: normal; font-size: 0.9em;">C++, OpenGL, GLSL, ImGui, GLFW3</span>
     </h4>
   </div>
 </div>
+
 
 
 
