@@ -16,6 +16,9 @@
   <a href="https://iamwassim.itch.io" target="_blank">
     <img align="center" src="https://github.com/itchio/itch/blob/master/src/static/images/logos/itchio-textless-pink.svg" alt="Wassim Ouled Mohamed" height="30" width="30" />
   </a>
+  <a href="mailto:wassimcontact@proton.me" target="_blank">
+    <img align="center" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" alt="Wassim Ouled Mohamed" height="40" width="40" />
+  </a>
 </p>
 
 
