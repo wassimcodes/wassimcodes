@@ -2,7 +2,7 @@
 
 - Game programmer with experience in C++ and C#.
 - Experience with Unreal Engine and Unity.
-- Passionate about gameplay mechanics, dynamic AI, procedural generation, and custom shaders.
+- Passionate about gameplay mechanics and 3D graphics.
 - Successfully shipped a cute game.
 
 <h3 align="left">Socials:</h3>
