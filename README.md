@@ -11,7 +11,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="iamwassim" style="width: 30px; height: 30px; object-fit: contain;" />
   </a>
   <a href="https://www.linkedin.com/in/wassim-ouled-mohamed/" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="Wassim Ouled Mohamed" style="width: 40px; height: 30px; object-fit: contain;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Wassim Ouled Mohamed" style="width: 30px; height: 30px; object-fit: contain;" />
   </a>
   <a href="mailto:wassimcontact@proton.me" target="_blank" style="text-decoration: none;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="iamawssimd" style="width: 30px; height: 30px; object-fit: contain;" />
