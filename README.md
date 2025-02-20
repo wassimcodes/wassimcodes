@@ -1,6 +1,6 @@
 # **Who am I?**
 
-- Game programmer with experience in C++ and C#.
+- Game programmer.
 - Experience with Unreal Engine and Unity.
 - Passionate about gameplay mechanics and AI behaviour.
 - Successfully shipped a cute game.
