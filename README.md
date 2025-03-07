@@ -3,7 +3,7 @@
 - Game programmer.
 - Experience with Unreal Engine and Unity.
 - Passionate about gameplay mechanics and AI behaviour.
-- Successfully shipped a cute game.
+- Successfully shipped 2 cute games.
 
 <h3 align="left">Socials:</h3>
 <div style="display: flex; justify-content: space-between; width: 160px;">
