@@ -2,7 +2,7 @@
 
 - Game programmer.
 - Experience with Unreal Engine and Unity.
-- Passionate about gameplay mechanics and AI behaviour.
+- Passionate about coding games from scratch.
 - Successfully shipped 2 cute games.
 
 <h3 align="left">Socials:</h3>
