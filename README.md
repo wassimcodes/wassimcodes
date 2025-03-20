@@ -20,9 +20,6 @@
   </a>
 </div>
 
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
@@ -45,19 +42,32 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassimcodes&layout=compact)](https://github.com/wassimcodes/github-readme-stats)
 
 <h3 align="left">Projects:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; text-align: center;">
   <div>
-    <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GregCover2-modified.png?raw=true" alt="Greg the Glider" width="375" height="250" />
+    <a href="https://iamwassim.itch.io/yappy-cafe" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modified.png?raw=true" alt="Yappy Café" width="325" height="250" />
     </a>
     <h4 style="margin: 10px 0; font-weight: bold;">
-      Greg the Glider: 
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Shader Graph, Blender, Substance Painter</span>
+      <a href="https://www.youtube.com/watch?v=qsBg2C9WxvI&t=71s" target="_blank" style="color: inherit; text-decoration: none;">
+        Yappy Café:
+      </a>
+      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
+    </h4>
+  </div>
+  <div>
+    <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GregCover2-modified.png?raw=true" alt="Greg the Glider" width="325" height="250" />
+    </a>
+    <h4 style="margin: 10px 0; font-weight: bold;">
+      <a href="https://www.youtube.com/watch?v=KnFYA8NfXVk&list=PLXotmHPNCH9GFyoc5IPSzl7o6_EGwVrfi" target="_blank" style="color: inherit; text-decoration: none;">
+        Greg the Glider:
+      </a>
+      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
     </h4>
   </div>
   <div>
     <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" alt="Geometry Dash Tribute" width="375" height="250" />
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" alt="Geometry Dash Tribute" width="325" height="250" />
     </a>
     <h4 style="margin: 10px 0; font-weight: bold;">
       <a href="https://github.com/wassimcodes/GeometryDashSDL2" target="_blank" style="color: inherit; text-decoration: none;">
@@ -68,7 +78,7 @@
   </div>
   <div>
     <a href="https://www.youtube.com/watch?v=UJ8tBZ8AvoI" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" alt="Drawing Software" width="375" height="250" />
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" alt="Drawing Software" width="325" height="250" />
     </a>
     <h4 style="margin: 10px 0; font-weight: bold;">
       <a href="https://github.com/wassimcodes/DrawingSoftware" target="_blank" style="color: inherit; text-decoration: none;">
@@ -78,7 +88,3 @@
     </h4>
   </div>
 </div>
-
-
-
-
