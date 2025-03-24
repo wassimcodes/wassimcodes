@@ -1,8 +1,6 @@
 # **Who am I?**
 
-- Game programmer.
-- Experience with Unreal Engine and Unity.
-- Successfully shipped 2 cute games.
+- I program stuff.
 
 <h3 align="left">Socials:</h3>
 <div style="display: flex; justify-content: space-between; width: 160px;">
