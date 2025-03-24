@@ -1,6 +1,8 @@
 # **Who am I?**
 
-- I program stuff.
+- Experienced in Unreal Egine and Unity.
+- Love to work with C++ Raw Frameworks.
+- Published 2 Games.
 
 <h3 align="left">Socials:</h3>
 <div style="display: flex; justify-content: space-between; width: 160px;">
