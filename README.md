@@ -2,7 +2,7 @@
 
 - Experienced in Unreal Egine and Unity.
 - Love building cute virtual worlds filled with imagination.
-- Published 2 Games.
+- Published 3 Games.
 - Content Creator on Youtube.
 
 <h3 align="left">Socials:</h3>
