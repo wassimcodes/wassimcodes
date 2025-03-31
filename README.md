@@ -1,7 +1,7 @@
 # **Who am I?**
 
 - Experienced in Unreal Egine and Unity.
-- Love to work with raw C++ Frameworks.
+- Love building cute virtual worlds filled with imagination.
 - Published 2 Games.
 - Content Creator on Youtube.
 
