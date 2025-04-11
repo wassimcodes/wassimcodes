@@ -49,10 +49,10 @@
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modifsied.png?raw=true" alt="One Wheel Meal" width="325" height="250" />
     </a>
     <h4 style="margin: 10px 0; font-weight: bold;">
-      <a href="https://www.youtube.com/watch?v=qsBg2C9WxvI&t=71s" target="_blank" style="color: inherit; text-decoration: none;">
+      <a href="https://www.youtube.com/watch?v=Ml2q4YCBoD0" target="_blank" style="color: inherit; text-decoration: none;">
         One Wheel Meal:
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
+      <span style="font-weight: normal; font-size: 0.9em;">Game Jam 5th place, Unity, C#, Blender, Substance Painter</span>
     </h4>
   </div>
   <div>
