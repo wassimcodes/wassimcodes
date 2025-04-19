@@ -52,7 +52,7 @@
       <a href="https://www.youtube.com/watch?v=Ml2q4YCBoD0" target="_blank" style="color: inherit; text-decoration: none;">
         Mars is Mine:
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">?%, Unity, C#, Blender, Substance Painter</span>
+      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Object Pooling, Blender, Substance Painter</span>
     </h4>
   </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; text-align: center;">
@@ -64,7 +64,7 @@
       <a href="https://www.youtube.com/watch?v=Ml2q4YCBoD0" target="_blank" style="color: inherit; text-decoration: none;">
         One Wheel Meal:
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Game Jam 5th place, Unity, C#, Blender, Substance Painter</span>
+      <span style="font-weight: normal; font-size: 0.9em;">Game Jam 5th place, Unity, Physics (Inverted Pendulum), C#, Blender, Substance Painter</span>
     </h4>
   </div>
   <div>
