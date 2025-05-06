@@ -1,7 +1,7 @@
 # **Who am I?**
 
-- Experienced in Unreal Egine and Unity.
-- Love building cute virtual worlds filled with imagination.
+- Experienced in Unreal Engine and Unity.
+- Love building systems from scratch.
 - Published 4 Games.
 - Content Creator on Youtube.
 
