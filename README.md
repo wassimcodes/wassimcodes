@@ -1,9 +1,9 @@
 # **Who am I?**
 
+- Gamer adn book reader.
 - Experienced in Unreal Engine and Unity.
-- Love building systems from scratch.
 - Published 4 Games.
-- Content Creator on Youtube.
+- Document my progress on Youtube.
 
 <h3 align="left">Socials:</h3>
 <div style="display: flex; justify-content: space-between; width: 160px;">
