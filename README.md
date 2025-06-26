@@ -2,7 +2,7 @@
 
 - Gamer and book reader.
 - Experienced in Unreal Engine and Unity.
-- Published 4 Games.
+- Shipped 4 games.
 - Document my progress on Youtube.
 
 <h3 align="left">Socials:</h3>
