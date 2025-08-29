@@ -111,7 +111,7 @@
       <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank" style="color: inherit; text-decoration: none;">
         It Goes On:
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Game jam 13th place, Blender, Substance Painter GLFW3</span>
+      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Game jam 13th place, Blender, Substance Painter</span>
     </h4>
   </div>
 </div>
