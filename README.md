@@ -1,6 +1,6 @@
 # **Who am I?**
 
-- Gamer and bookwarm.
+- Gamer and bookworm.
 - Experienced in Unreal Engine and Unity.
 - Shipped 6 small games (3 game jams).
 - Document my progress on Youtube.
