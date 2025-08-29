@@ -23,6 +23,32 @@
 
 <h3 align="left">Projects:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; text-align: center;">
+
+  <!---->
+  <div>
+    <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/clairestinyworkshop.png" alt="Claire's Tiny Workshop" width="325" height="250" />
+    </a>
+    <h4 style="margin: 10px 0; font-weight: bold;">
+      <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank" style="color: inherit; text-decoration: none;">
+        Claire's Tiny Workshop:
+      </a>
+      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Game Jam 13th place, Blender, Substance Painter</span>
+    </h4>
+  </div>
+
+  <!-- -->
+  <div>
+    <a href="https://iamwassim.itch.io/it-goes-on" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/itgoesoncover.png" alt="It Goes On" width="325" height="250" />
+    </a>
+    <h4 style="margin: 10px 0; font-weight: bold;">
+      <a href="https://www.youtube.com/watch?v=E4S0zZSHZrk" target="_blank" style="color: inherit; text-decoration: none;">
+        It Goes On:
+      </a>
+      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, 3D Modeling, Texturing, GMTK 2025, Dialogue Programming, Game Design</span>
+    </h4>
+  </div>
   <div>
     <a href="https://iamwassim.itch.io/mars-is-mine" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover2-modified.png" alt="Mars is Mine" width="325" height="250" />
@@ -34,7 +60,7 @@
       <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Object Pooling, Blender, Substance Painter</span>
     </h4>
   </div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; text-align: center;">
+
   <div>
     <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modifsied.png?raw=true" alt="One Wheel Meal" width="325" height="250" />
@@ -46,8 +72,7 @@
       <span style="font-weight: normal; font-size: 0.9em;">Game Jam 5th place, Unity, Physics (Inverted Pendulum), C#, Blender, Substance Painter</span>
     </h4>
   </div>
-  <div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; text-align: center;">
+
   <div>
     <a href="https://iamwassim.itch.io/yappy-cafe" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modified.png?raw=true" alt="Yappy Café" width="325" height="250" />
@@ -59,6 +84,7 @@
       <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
     </h4>
   </div>
+
   <div>
     <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GregCover2-modified.png?raw=true" alt="Greg the Glider" width="325" height="250" />
@@ -70,6 +96,7 @@
       <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
     </h4>
   </div>
+
   <div>
     <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" alt="Geometry Dash Tribute" width="325" height="250" />
@@ -81,6 +108,7 @@
       <span style="font-weight: normal; font-size: 0.9em;">C++, SDL2</span>
     </h4>
   </div>
+
   <div>
     <a href="https://www.youtube.com/watch?v=UJ8tBZ8AvoI" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" alt="Drawing Software" width="325" height="250" />
@@ -92,26 +120,6 @@
       <span style="font-weight: normal; font-size: 0.9em;">C++, OpenGL, GLSL, ImGui, GLFW3</span>
     </h4>
   </div>
+
 </div>
-<a href="" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/itgoesoncover.png" alt="It Goes On" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
-      <a href="https://iamwassim.itch.io/it-goes-on" target="_blank" style="color: inherit; text-decoration: none;">
-        It Goes On:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, 3D Modeling, Texturing, GMTK 2025, Dialogue Programming, Game Design</span>
-    </h4>
-  </div>
-</div>
-<a href="https://www.youtube.com/watch?v=E4S0zZSHZrk" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/clairestinyworkshop.png" alt="Claire's Tiny Workshop" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
-      <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank" style="color: inherit; text-decoration: none;">
-        It Goes On:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Game jam 13th place, Blender, Substance Painter</span>
-    </h4>
-  </div>
-</div>
+
