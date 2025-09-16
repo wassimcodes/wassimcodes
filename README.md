@@ -1,6 +1,6 @@
 # **Profile**
 
-- Gamer and bookworm.
+- Game programmer and bookworm.
 - Experienced in Unreal Engine and Unity.
 - Shipped 6 small games (3 game jams).
 - Document my progress on Youtube.
