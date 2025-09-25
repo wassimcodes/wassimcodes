@@ -2,7 +2,7 @@
 
 - Game programmer and bookworm.
 - Experienced in Unreal Engine and Unity.
-- Shipped 6 small games (3 game jams).
+- Shipped 7 small games (4 game jams).
 - Document my progress on Youtube.
 
 <h3 align="left">Socials:</h3>
