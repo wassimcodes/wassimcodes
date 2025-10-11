@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<h3 align="left">Projects:</h3>
+# My Games
 <div style="display: flex; flex-wrap: wrap; gap: 10px; text-align: center;">
 
 <!---->
@@ -120,6 +120,12 @@
       <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
     </h4>
   </div>
+    <!-- -->
+    
+# Learning Projects
+  <!-- -->
+
+
 
   <div>
     <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
@@ -132,7 +138,7 @@
       <span style="font-weight: normal; font-size: 0.9em;">C++, SDL2</span>
     </h4>
   </div>
-
+    <!-- -->
   <div>
     <a href="https://www.youtube.com/watch?v=UJ8tBZ8AvoI" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" alt="Drawing Software" width="325" height="250" />
