@@ -26,6 +26,18 @@
 
 <!---->
   <div>
+    <a href="https://iamwassim.itch.io/endless-wheels" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/EndlessWheels-modified.png" alt="Kingdom Tiles" width="325" height="250" />
+    </a>
+    <h4 style="margin: 10px 0; font-weight: bold;">
+      <a href="https://iamwassim.itch.io/endless-wheels" target="_blank" style="color: inherit; text-decoration: none;">
+        Endless Wheels:
+      </a>
+      <span style="font-weight: normal; font-size: 0.9em;">Unreal Engine 5, Blueprints, Blender</span>
+    </h4>
+  </div>
+<!---->
+  <div>
     <a href="https://iamwassim.itch.io/kingdom-tiles" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/PinkCastle-modified.png" alt="Kingdom Tiles" width="325" height="250" />
     </a>
@@ -58,7 +70,7 @@
       <a href="https://www.youtube.com/watch?v=E4S0zZSHZrk" target="_blank" style="color: inherit; text-decoration: none;">
         It Goes On:
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, 3D Modeling, Texturing, GMTK 2025, Dialogue Programming, Game Design</span>
+      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Blender, GMTK 2025</span>
     </h4>
   </div>
   <div>
@@ -81,7 +93,7 @@
       <a href="https://www.youtube.com/watch?v=Ml2q4YCBoD0" target="_blank" style="color: inherit; text-decoration: none;">
         One Wheel Meal:
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Game Jam 5th place, Unity, Physics (Inverted Pendulum), C#, Blender, Substance Painter</span>
+      <span style="font-weight: normal; font-size: 0.9em;">Game Jam 5th place, Unity, Physics, C#, Blender, Substance Painter</span>
     </h4>
   </div>
 
