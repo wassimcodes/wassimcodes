@@ -150,7 +150,7 @@
  <!-- -->
   <div>
     <a href="https://github.com/wassimcodes/silver-clad-3D" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/silverclad-modified.png" alt="Silver Clad - 3D Engine" width="325" height="250" />
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/silverclad-modified-modified.png" alt="Silver Clad - 3D Engine" width="325" height="250" />
     </a>
     <h4 style="margin: 10px 0; font-weight: bold;">
       <a href="https://github.com/wassimcodes/silver-clad-3D" target="_blank" style="color: inherit; text-decoration: none;">
