@@ -177,7 +177,7 @@
 <!-- -->
 <div>
   <a href="https://github.com/wassimcodes/top-down-controller-UE5" target="_blank">
-    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/topdownmovement.png" alt="Top Down Controller - Unreal Engine 5" width="325" height="250" />
+    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/topdownmovement-modifiedd.png" alt="Top Down Controller - Unreal Engine 5" width="325" height="250" />
   </a>
   <h4 style="margin: 10px 0; font-weight: bold;">
     <a href="https://github.com/wassimcodes/top-down-controller-UE5" target="_blank" style="color: inherit; text-decoration: none;">
