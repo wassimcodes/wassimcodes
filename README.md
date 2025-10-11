@@ -160,6 +160,19 @@
     </h4>
   </div>
     <!-- -->
+    <div>
+    <a href="https://github.com/wassimcodes/vectors-ball-collision" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/silverclad-modified-modified.png" alt="Silver Clad - 3D Engine" width="325" height="250" />
+    </a>
+    <h4 style="margin: 10px 0; font-weight: bold;">
+      <a href="https://github.com/wassimcodes/vectors-ball-collision" target="_blank" style="color: inherit; text-decoration: none;">
+        Silver Clad - 3D Engine:
+      </a>
+      <span style="font-weight: normal; font-size: 0.9em;">C++, Raylib</span>
+    </h4>
+  </div>
+    <!-- -->
+    
 
 
 </div>
