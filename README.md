@@ -124,9 +124,6 @@
     
 # Learning Projects
   <!-- -->
-
-
-
   <div>
     <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" alt="Geometry Dash Tribute" width="325" height="250" />
@@ -150,6 +147,20 @@
       <span style="font-weight: normal; font-size: 0.9em;">C++, OpenGL, GLSL, ImGui, GLFW3</span>
     </h4>
   </div>
+ <!-- -->
+  <div>
+    <a href="https://github.com/wassimcodes/silver-clad-3D" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/silverclad-modified.png" alt="Silver Clad - 3D Engine" width="325" height="250" />
+    </a>
+    <h4 style="margin: 10px 0; font-weight: bold;">
+      <a href="https://github.com/wassimcodes/silver-clad-3D" target="_blank" style="color: inherit; text-decoration: none;">
+        Silver Clad - 3D Engine:
+      </a>
+      <span style="font-weight: normal; font-size: 0.9em;">C++, Raylib</span>
+    </h4>
+  </div>
+    <!-- -->
+
 
 </div>
 
