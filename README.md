@@ -24,6 +24,18 @@
 <h3 align="left">Projects:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; text-align: center;">
 
+<!---->
+  <div>
+    <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/clairestinyworkshop.png" alt="Claire's Tiny Workshop" width="325" height="250" />
+    </a>
+    <h4 style="margin: 10px 0; font-weight: bold;">
+      <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank" style="color: inherit; text-decoration: none;">
+        Claire's Tiny Workshop:
+      </a>
+      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Game Jam 13th place, Blender, Substance Painter</span>
+    </h4>
+  </div>
   <!---->
   <div>
     <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank">
