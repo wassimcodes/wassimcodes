@@ -183,6 +183,18 @@
     <span style="font-weight: normal; font-size: 0.9em;">C++, Raylib</span>
   </h4>
 </div>
+<!-- -->
+<div>
+  <a href="https://github.com/wassimcodes/fluid-simulation-optimization" target="_blank">
+    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/FluidOptimization.png" alt="Fluid Simulation Optimization" width="325" height="250" />
+  </a>
+  <h4 style="margin: 10px 0; font-weight: bold;">
+    <a href="https://github.com/wassimcodes/fluid-simulation-optimization" target="_blank" style="color: inherit; text-decoration: none;">
+      Fluid Simulation Optimization:
+    </a>
+    <span style="font-weight: normal; font-size: 0.9em;">C++, Visual Studio Profiler </span>
+  </h4>
+</div>
 
 # **Prototypes**
 
