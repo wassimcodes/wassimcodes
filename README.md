@@ -122,7 +122,7 @@
   </div>
     <!-- -->
     
-# **Learning Projects**
+# **Technical Experiments**
   <!-- -->
   <div>
     <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
