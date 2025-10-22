@@ -212,11 +212,11 @@
 </div>
 <!-- -->
 <div>
-  <a href="https://github.com/wassimcodes/top-down-controller-UE5" target="_blank">
+  <a href="https://github.com/wassimcodes/AI-patrol-tool-unity" target="_blank">
     <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/patroltooliamge-modified.png" alt="AI Patrol Tool - Unity" width="325" height="250" />
   </a>
   <h4 style="margin: 10px 0; font-weight: bold;">
-    <a href="https://github.com/wassimcodes/top-down-controller-UE5" target="_blank" style="color: inherit; text-decoration: none;">
+    <a href="https://github.com/wassimcodes/AI-patrol-tool-unity" target="_blank" style="color: inherit; text-decoration: none;">
       AI Patrol Tool - Unity:
     </a>
     <span style="font-weight: normal; font-size: 0.9em;">C#, Tool Programming, Game AI Programming</span>
