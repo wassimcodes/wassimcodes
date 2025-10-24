@@ -219,8 +219,19 @@
     <a href="https://github.com/wassimcodes/AI-patrol-tool-unity" target="_blank" style="color: inherit; text-decoration: none;">
       AI Patrol Tool - Unity:
     </a>
-    <span style="font-weight: normal; font-size: 0.9em;">C#, Tool Programming, Game AI Programming</span>
+    <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Tool Programming, Game AI Programming</span>
   </h4>
 </div>
-
+<!-- -->
+<div>
+  <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank">
+    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/rtsnavigation-modified.png" alt="RTS Navigation System - Unity" width="325" height="250" />
+  </a>
+  <h4 style="margin: 10px 0; font-weight: bold;">
+    <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank" style="color: inherit; text-decoration: none;">
+      RTS Navigation System - Unity:
+    </a>
+    <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Finite-State-Machine</span>
+  </h4>
+</div>
 
