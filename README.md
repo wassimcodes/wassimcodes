@@ -78,17 +78,6 @@
     <span>Unity, C#, Object Pooling, Blender, Substance Painter</span>
   </td>
 <!-- game 6 -->
-  <td align="center">
-    <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modifsied.png?raw=true" width="325" height="250" />
-    </a>
-    <br>
-    <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank" style="color: inherit; text-decoration: none;">
-      <strong>One Wheel Meal</strong>
-    </a>
-    <br>
-    <span>Game Jam 5th place, Unity, Physics, C#, Blender, Substance Painter</span>
-  </td>
 </tr>
 </table>
 
