@@ -195,6 +195,18 @@
     <span style="font-weight: normal; font-size: 0.9em;">C++, Visual Studio Profiler </span>
   </h4>
 </div>
+<!-- -->
+<div>
+  <a href="https://github.com/wassimcodes/AI-boids-simulation" target="_blank">
+    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/boids simulation-modified.png" alt="AI Boids Simulation - Unity" width="325" height="250" />
+  </a>
+  <h4 style="margin: 10px 0; font-weight: bold;">
+    <a href="https://github.com/wassimcodes/AI-boids-simulation" target="_blank" style="color: inherit; text-decoration: none;">
+      AI Boids Simulation - Unity:
+    </a>
+    <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Flocking Behaviour</span>
+  </h4>
+</div>
 
 # **Prototypes**
 
@@ -234,16 +246,5 @@
     <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Finite-State-Machine</span>
   </h4>
 </div>
-<!-- -->
-<div>
-  <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank">
-    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/rtsnavigation-modified.png" alt="AI Boids Simulation - Unity" width="325" height="250" />
-  </a>
-  <h4 style="margin: 10px 0; font-weight: bold;">
-    <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank" style="color: inherit; text-decoration: none;">
-      AI Boids Simulation - Unity:
-    </a>
-    <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Flocking Behaviour</span>
-  </h4>
-</div>
+
 
