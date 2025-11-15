@@ -21,45 +21,89 @@
   </a>
 </div>
 
-# **My Games**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; text-align: center;">
+<h1>My Games</h1>
 
-<!---->
-  <div>
-    <a href="https://iamwassim.itch.io/endless-wheels" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/EndlessWheels-modified.png" alt="Kingdom Tiles" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
+<table>
+  <tr>
+    <!-- Game 1 -->
+    <td align="center">
+      <a href="https://iamwassim.itch.io/endless-wheels" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/EndlessWheels-modified.png" width="325" height="250" />
+      </a>
+      <br>
       <a href="https://iamwassim.itch.io/endless-wheels" target="_blank" style="color: inherit; text-decoration: none;">
-        Endless Wheels:
+        <strong>Endless Wheels</strong>
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unreal Engine 5, Blueprints, Blender</span>
-    </h4>
-  </div>
-<!---->
-  <div>
-    <a href="https://iamwassim.itch.io/kingdom-tiles" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/PinkCastle-modified.png" alt="Kingdom Tiles" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
+      <br>
+      <span>Unreal Engine 5, Blueprints, Blender</span>
+    </td>
+    <!-- Game 2 -->
+    <td align="center">
+      <a href="https://iamwassim.itch.io/kingdom-tiles" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/PinkCastle-modified.png" width="325" height="250" />
+      </a>
+      <br>
       <a href="https://iamwassim.itch.io/kingdom-tiles" target="_blank" style="color: inherit; text-decoration: none;">
-        Kingdom Tiles:
+        <strong>Kingdom Tiles</strong>
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Creative Jam 1st Place, Team Collaboration, Unity, C#</span>
-    </h4>
-  </div>
-  <!---->
-  <div>
-    <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/clairestinyworkshop.png" alt="Claire's Tiny Workshop" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
+      <br>
+      <span>Creative Jam 1st Place, Team Collaboration, Unity, C#</span>
+    </td>
+    <!-- Game 3 -->
+    <td align="center">
+      <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/clairestinyworkshop.png" width="325" height="250" />
+      </a>
+      <br>
       <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank" style="color: inherit; text-decoration: none;">
-        Claire's Tiny Workshop:
+        <strong>Claire's Tiny Workshop</strong>
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Game Jam 13th place, Blender, Substance Painter</span>
-    </h4>
-  </div>
+      <br>
+      <span>Unity, C#, Game Jam 13th Place, Blender, Substance Painter</span>
+    </td>
+  </tr>
+<!-- Row 2 -->
+<tr>
+  <!-- game 4 -->
+  <td align="center">
+    <a href="https://iamwassim.itch.io/it-goes-on" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/itgoesoncover.png" width="325" height="250" />
+    </a>
+    <br>
+    <a href="https://iamwassim.itch.io/it-goes-on" target="_blank" style="color: inherit; text-decoration: none;">
+      <strong>It Goes On</strong>
+    </a>
+    <br>
+    <span>Unity, C#, Blender, GMTK 2025</span>
+  </td>
+<!-- game 5 -->
+  <td align="center">
+    <a href="https://iamwassim.itch.io/mars-is-mine" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover2-modified.png" width="325" height="250" />
+    </a>
+    <br>
+    <a href="https://iamwassim.itch.io/mars-is-mine" target="_blank" style="color: inherit; text-decoration: none;">
+      <strong>Mars is Mine</strong>
+    </a>
+    <br>
+    <span>Unity, C#, Object Pooling, Blender, Substance Painter</span>
+  </td>
+<!-- game 6 -->
+  <td align="center">
+    <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank">
+      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modifsied.png?raw=true" width="325" height="250" />
+    </a>
+    <br>
+    <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank" style="color: inherit; text-decoration: none;">
+      <strong>One Wheel Meal</strong>
+    </a>
+    <br>
+    <span>Game Jam 5th place, Unity, Physics, C#, Blender, Substance Painter</span>
+  </td>
+</tr>
+</table>
+
+
 
   <!-- -->
   <div>
