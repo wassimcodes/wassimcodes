@@ -50,17 +50,6 @@
       <span>Creative Jam 1st Place, Team Collaboration, Unity, C#</span>
     </td>
     <!-- Game 3 -->
-    <td align="center">
-      <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank">
-        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/clairestinyworkshop.png" width="325" height="250" />
-      </a>
-      <br>
-      <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank" style="color: inherit; text-decoration: none;">
-        <strong>Claire's Tiny Workshop</strong>
-      </a>
-      <br>
-      <span>Unity, C#, Game Jam 13th Place, Blender, Substance Painter</span>
-    </td>
   </tr>
 <!-- Row 2 -->
 <tr>
