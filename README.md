@@ -49,11 +49,22 @@
       <br>
       <span>Creative Jam 1st Place, Team Collaboration, Unity, C#</span>
     </td>
-    <!-- Game 3 -->
   </tr>
 <!-- Row 2 -->
 <tr>
-  <!-- game 4 -->
+    <!-- game 3 -->
+  <td align="center">
+      <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/clairestinyworkshop.png" width="325" height="250" />
+      </a>
+      <br>
+      <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank" style="color: inherit; text-decoration: none;">
+        <strong>Claire's Tiny Workshop</strong>
+      </a>
+      <br>
+      <span>Unity, C#, Game Jam 13th Place, Blender, Substance Painter</span>
+    </td>
+      <!-- game 4 -->
   <td align="center">
     <a href="https://iamwassim.itch.io/it-goes-on" target="_blank">
       <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/itgoesoncover.png" width="325" height="250" />
@@ -65,6 +76,9 @@
     <br>
     <span>Unity, C#, Blender, GMTK 2025</span>
   </td>
+  <tr>
+    <!-- Row 3 -->
+<tr>
 <!-- game 5 -->
   <td align="center">
     <a href="https://iamwassim.itch.io/mars-is-mine" target="_blank">
@@ -78,71 +92,53 @@
     <span>Unity, C#, Object Pooling, Blender, Substance Painter</span>
   </td>
 <!-- game 6 -->
-</tr>
+  <td align="center">
+  <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank">
+    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modifsied.png?raw=true" width="325" height="250" style="object-fit: contain;" />
+  </a>
+  <br>
+  <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank" style="color: inherit; text-decoration: none;">
+    <strong>One Wheel Meal</strong>
+  </a>
+  <br>
+  <span>Game Jam 5th place, Unity, Physics, C#, Blender, Substance Painter</span>
+</td>
+    <!-- Row 4 -->
+<tr>
+<!-- game 7 -->
+  <td align="center">
+  <a href="https://iamwassim.itch.io/yappy-cafe" target="_blank">
+    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modified.png?raw=true"
+         width="325" height="250" style="object-fit: contain;" />
+  </a>
+  <br>
+  <a href="https://iamwassim.itch.io/yappy-cafe" target="_blank" style="color: inherit; text-decoration: none;">
+    <strong>Yappy Café</strong>
+  </a>
+  <br>
+  <span>Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
+</td>
+<!-- game 8 -->
+<td align="center">
+  <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank">
+    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GregCover2-modified.png?raw=true"
+         width="325" height="250" style="object-fit: contain;" />
+  </a>
+  <br>
+  <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank" style="color: inherit; text-decoration: none;">
+    <strong>Greg the Glider</strong>
+  </a>
+  <br>
+  <span>Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
+      <!-- Row 5 -->
+</td>
+<!-- game 9 -->
+
+
+<!-- at the end -->
+<tr>
 </table>
 
-
-
-  <!-- -->
-  <div>
-    <a href="https://iamwassim.itch.io/it-goes-on" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/itgoesoncover.png" alt="It Goes On" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
-      <a href="https://www.youtube.com/watch?v=E4S0zZSHZrk" target="_blank" style="color: inherit; text-decoration: none;">
-        It Goes On:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Blender, GMTK 2025</span>
-    </h4>
-  </div>
-  <div>
-    <a href="https://iamwassim.itch.io/mars-is-mine" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover2-modified.png" alt="Mars is Mine" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
-      <a href="https://www.youtube.com/watch?v=Ml2q4YCBoD0" target="_blank" style="color: inherit; text-decoration: none;">
-        Mars is Mine:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Object Pooling, Blender, Substance Painter</span>
-    </h4>
-  </div>
-
-  <div>
-    <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modifsied.png?raw=true" alt="One Wheel Meal" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
-      <a href="https://www.youtube.com/watch?v=Ml2q4YCBoD0" target="_blank" style="color: inherit; text-decoration: none;">
-        One Wheel Meal:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Game Jam 5th place, Unity, Physics, C#, Blender, Substance Painter</span>
-    </h4>
-  </div>
-
-  <div>
-    <a href="https://iamwassim.itch.io/yappy-cafe" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modified.png?raw=true" alt="Yappy Café" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
-      <a href="https://www.youtube.com/watch?v=qsBg2C9WxvI&t=71s" target="_blank" style="color: inherit; text-decoration: none;">
-        Yappy Café:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
-    </h4>
-  </div>
-
-  <div>
-    <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GregCover2-modified.png?raw=true" alt="Greg the Glider" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
-      <a href="https://www.youtube.com/watch?v=KnFYA8NfXVk&list=PLXotmHPNCH9GFyoc5IPSzl7o6_EGwVrfi" target="_blank" style="color: inherit; text-decoration: none;">
-        Greg the Glider:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
-    </h4>
-  </div>
-    <!-- -->
     
 # **Technical Experiments**
   <!-- -->
