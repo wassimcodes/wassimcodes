@@ -21,7 +21,9 @@
   </a>
 </div>
 
-<h1>My Games</h1>
+<div align="center">
+  <h1>My Games</h1>
+</div>
 
 <table>
   <tr>
@@ -139,130 +141,147 @@
 <tr>
 </table>
 
-    
-# **Technical Experiments**
-  <!-- -->
-  <div>
-    <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" alt="Geometry Dash Tribute" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
+
+<div align="center">
+  <h1>Technical Experiments</h1>
+</div>
+
+<table align="center">
+  <!-- Row 1 -->
+  <tr>
+        <!-- experiment 1 -->
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=LXDMVYJXyZs" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GeometryDash111-modified.png" width="325" height="250" />
+      </a><br>
       <a href="https://github.com/wassimcodes/GeometryDashSDL2" target="_blank" style="color: inherit; text-decoration: none;">
-        Geometry Dash:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">C++, SDL2</span>
-    </h4>
-  </div>
-    <!-- -->
-  <div>
-    <a href="https://www.youtube.com/watch?v=UJ8tBZ8AvoI" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" alt="Drawing Software" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
+        <strong>Geometry Dash</strong>
+      </a><br>
+      <span>C++, SDL2</span>
+    </td>
+    <!-- experiment 2 -->
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=UJ8tBZ8AvoI" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/DrawingSoftware-modified.png" width="325" height="250" />
+      </a><br>
       <a href="https://github.com/wassimcodes/DrawingSoftware" target="_blank" style="color: inherit; text-decoration: none;">
-        Drawing Software:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">C++, OpenGL, GLSL, ImGui, GLFW3</span>
-    </h4>
-  </div>
- <!-- -->
-  <div>
-    <a href="https://github.com/wassimcodes/silver-clad-3D" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/silverclad-modified-modified.png" alt="Silver Clad - 3D Engine" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
+        <strong>Drawing Software</strong>
+      </a><br>
+      <span>C++, OpenGL, GLSL, ImGui, GLFW3</span>
+    </td>
+        <!-- experiment 3 -->
+    <td align="center">
+      <a href="https://github.com/wassimcodes/silver-clad-3D" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/silverclad-modified-modified.png" width="325" height="250" />
+      </a><br>
       <a href="https://github.com/wassimcodes/silver-clad-3D" target="_blank" style="color: inherit; text-decoration: none;">
-        Silver Clad - 3D Engine:
-      </a>
-      <span style="font-weight: normal; font-size: 0.9em;">C++, Raylib</span>
-    </h4>
-  </div>
-    <!-- -->
-    <div>
-    <a href="https://github.com/wassimcodes/vectors-ball-collision" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/vectors-modified.png" alt="Vectors: Collision & Selection" width="325" height="250" />
-    </a>
-    <h4 style="margin: 10px 0; font-weight: bold;">
+        <strong>Silver Clad – 3D Engine</strong>
+      </a><br>
+      <span>C++, Raylib</span>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+        <!-- experiment 4 -->
+    <td align="center">
+      <a href="https://github.com/wassimcodes/vectors-ball-collision" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/vectors-modified.png" width="325" height="250" />
+      </a><br>
       <a href="https://github.com/wassimcodes/vectors-ball-collision" target="_blank" style="color: inherit; text-decoration: none;">
-        Vectors: Collision & Selection:
+        <strong>Vectors: Collision & Selection</strong>
+      </a><br>
+      <span>C++, Raylib, Linear Algebra</span>
+    </td>
+      <!-- experiment 5 -->
+    <td align="center">
+      <a href="https://github.com/wassimcodes/ecosystem-simulation" target="_blank">
+        <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/ecosystem-modified (1).png" width="325" height="250" />
+      </a><br>
+      <a href="https://github.com/wassimcodes/ecosystem-simulation" target="_blank" style="color: inherit; text-decoration: none;">
+        <strong>Ecosystem Simulation</strong>
+      </a><br>
+      <span>C++, Raylib</span>
+    </td>
+        <!-- experiment 6 -->
+    <td align="center">
+      <a href="https://github.com/wassimcodes/fluid-simulation-optimization" target="_blank">
+        <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/FluidOptimization.png" width="325" height="250" />
+      </a><br>
+      <a href="https://github.com/wassimcodes/fluid-simulation-optimization" target="_blank" style="color: inherit; text-decoration: none;">
+        <strong>Fluid Simulation Optimization</strong>
+      </a><br>
+      <span>C++, Visual Studio Profiler</span>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wassimcodes/AI-boids-simulation" target="_blank">
+        <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/boids simulation-modified.png" width="325" height="250" />
+      </a><br>
+      <a href="https://github.com/wassimcodes/AI-boids-simulation" target="_blank" style="color: inherit; text-decoration: none;">
+        <strong>AI Boids Simulation – Unity</strong>
+      </a><br>
+      <span>C#, Unity, Flocking Behaviour</span>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h1>Prototypes</h1>
+</div>
+
+<table>
+  <tr>
+    <!-- ===================================== -->
+    <!-- ==========  PROJECT 1  ============== -->
+    <!-- ===================================== -->
+    <td align="center">
+      <a href="https://github.com/wassimcodes/top-down-controller-UE5" target="_blank">
+        <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/topdownmovement-modifiedd.png" width="325" height="250" alt="Top Down Controller - Unreal Engine 5">
       </a>
-      <span style="font-weight: normal; font-size: 0.9em;">C++, Raylib, Linear Algebra</span>
-    </h4>
-  </div>
-   <!-- -->
-<div>
-  <a href="https://github.com/wassimcodes/ecosystem-simulation" target="_blank">
-    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/ecosystem-modified (1).png" alt="Ecosystem Simulation" width="325" height="250" />
-  </a>
-  <h4 style="margin: 10px 0; font-weight: bold;">
-    <a href="https://github.com/wassimcodes/ecosystem-simulation" target="_blank" style="color: inherit; text-decoration: none;">
-      Ecosystem Simulation:
-    </a>
-    <span style="font-weight: normal; font-size: 0.9em;">C++, Raylib</span>
-  </h4>
-</div>
-<!-- -->
-<div>
-  <a href="https://github.com/wassimcodes/fluid-simulation-optimization" target="_blank">
-    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/FluidOptimization.png" alt="Fluid Simulation Optimization" width="325" height="250" />
-  </a>
-  <h4 style="margin: 10px 0; font-weight: bold;">
-    <a href="https://github.com/wassimcodes/fluid-simulation-optimization" target="_blank" style="color: inherit; text-decoration: none;">
-      Fluid Simulation Optimization:
-    </a>
-    <span style="font-weight: normal; font-size: 0.9em;">C++, Visual Studio Profiler </span>
-  </h4>
-</div>
-<!-- -->
-<div>
-  <a href="https://github.com/wassimcodes/AI-boids-simulation" target="_blank">
-    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/boids simulation-modified.png" alt="AI Boids Simulation - Unity" width="325" height="250" />
-  </a>
-  <h4 style="margin: 10px 0; font-weight: bold;">
-    <a href="https://github.com/wassimcodes/AI-boids-simulation" target="_blank" style="color: inherit; text-decoration: none;">
-      AI Boids Simulation - Unity:
-    </a>
-    <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Flocking Behaviour</span>
-  </h4>
-</div>
+      <h4 style="margin: 10px 0; font-weight: bold;">
+        <a href="https://github.com/wassimcodes/top-down-controller-UE5" target="_blank" style="color: inherit; text-decoration: none;">
+          Top Down Controller - Unreal Engine 5:
+        </a>
+        <br>
+        <span style="font-weight: normal; font-size: 0.9em;">C++, Unreal Engine 5</span>
+      </h4>
+    </td>
+    <!-- ===================================== -->
+    <!-- ==========  PROJECT 2  ============== -->
+    <!-- ===================================== -->
+    <td align="center">
+      <a href="https://github.com/wassimcodes/AI-patrol-tool-unity" target="_blank">
+        <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/patroltooliamge-modified.png" width="325" height="250" alt="AI Patrol Tool - Unity">
+      </a>
+      <h4 style="margin: 10px 0; font-weight: bold;">
+        <a href="https://github.com/wassimcodes/AI-patrol-tool-unity" target="_blank" style="color: inherit; text-decoration: none;">
+          AI Patrol Tool - Unity:
+        </a>
+        <br>
+        <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Tool Programming</span>
+      </h4>
+    </td>
+    <!-- ===================================== -->
+    <!-- ==========  PROJECT 3  ============== -->
+    <!-- ===================================== -->
+    <td align="center">
+      <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank">
+        <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/rtsnavigation-modified.png" width="325" height="250" alt="RTS Navigation System - Unity">
+      </a>
+      <h4 style="margin: 10px 0; font-weight: bold;">
+        <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank" style="color: inherit; text-decoration: none;">
+          RTS Navigation System - Unity:
+        </a>
+        <br>
+        <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Finite-State-Machine</span>
+      </h4>
+    </td>
 
-# **Prototypes**
+  </tr>
+</table>
 
-<!-- -->
-<div>
-  <a href="https://github.com/wassimcodes/top-down-controller-UE5" target="_blank">
-    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/topdownmovement-modifiedd.png" alt="Top Down Controller - Unreal Engine 5" width="325" height="250" />
-  </a>
-  <h4 style="margin: 10px 0; font-weight: bold;">
-    <a href="https://github.com/wassimcodes/top-down-controller-UE5" target="_blank" style="color: inherit; text-decoration: none;">
-      Top Down Controller - Unreal Engine 5:
-    </a>
-    <span style="font-weight: normal; font-size: 0.9em;">C++, Unreal Engine 5</span>
-  </h4>
-</div>
-<!-- -->
-<div>
-  <a href="https://github.com/wassimcodes/AI-patrol-tool-unity" target="_blank">
-    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/patroltooliamge-modified.png" alt="AI Patrol Tool - Unity" width="325" height="250" />
-  </a>
-  <h4 style="margin: 10px 0; font-weight: bold;">
-    <a href="https://github.com/wassimcodes/AI-patrol-tool-unity" target="_blank" style="color: inherit; text-decoration: none;">
-      AI Patrol Tool - Unity:
-    </a>
-    <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Tool Programming</span>
-  </h4>
-</div>
-<!-- -->
-<div>
-  <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank">
-    <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/rtsnavigation-modified.png" alt="RTS Navigation System - Unity" width="325" height="250" />
-  </a>
-  <h4 style="margin: 10px 0; font-weight: bold;">
-    <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank" style="color: inherit; text-decoration: none;">
-      RTS Navigation System - Unity:
-    </a>
-    <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Finite-State-Machine</span>
-  </h4>
-</div>
 
 
