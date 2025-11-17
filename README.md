@@ -37,7 +37,7 @@
         <strong>Endless Wheels</strong>
       </a>
       <br>
-      <span>Unreal Engine 5, Blueprints, Blender</span>
+      <span>Unreal Engine 5, Blueprints, C++, Blender</span>
     </td>
     <!-- Game 2 -->
     <td align="center">
