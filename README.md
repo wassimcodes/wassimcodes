@@ -261,7 +261,7 @@
           AI Patrol Tool - Unity:
         </a>
         <br>
-        <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Tool Programming</span>
+        <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Tool Programming, Behaviour Tree</span>
       </h4>
     </td>
     <!-- ===================================== -->
