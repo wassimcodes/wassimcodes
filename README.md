@@ -285,14 +285,14 @@
       <tr>
     <td align="center">
       <a href="https://github.com/wassimcodes/Character-State-machine" target="_blank">
-        <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/CharacterStateThumbnail.png" width="325" height="250" alt="Character State Machine System">
+        <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/charactersystem-modified.png" width="325" height="250" alt="Character State Machine System">
       </a>
       <h4 style="margin: 10px 0; font-weight: bold;">
         <a href="https://github.com/wassimcodes/Character-State-machine" target="_blank" style="color: inherit; text-decoration: none;">
           Character State Machine System:
         </a>
         <br>
-        <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Finite-State-Machine, Controller Auto-Aim System</span>
+        <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, FSM, Modular Item System</span>
       </h4>
     </td>
 
