@@ -2,7 +2,7 @@
 
 - Game programmer, gamer, and bookworm.
 - Experienced in Unreal Engine and Unity.
-- Shipped 8 small games (4 game jams).
+- Developed 8 small games (4 game jams).
 - Document my progress on Youtube.
 
 <h3 align="left">Socials:</h3>
@@ -267,6 +267,22 @@
     <!-- ===================================== -->
     <!-- ==========  PROJECT 3  ============== -->
     <!-- ===================================== -->
+    <td align="center">
+      <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank">
+        <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/rtsnavigation-modified.png" width="325" height="250" alt="RTS Navigation System - Unity">
+      </a>
+      <h4 style="margin: 10px 0; font-weight: bold;">
+        <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank" style="color: inherit; text-decoration: none;">
+          RTS Navigation System - Unity:
+        </a>
+        <br>
+        <span style="font-weight: normal; font-size: 0.9em;">C#, Unity, Finite-State-Machine</span>
+      </h4>
+    </td>
+<!-- ===================================== -->
+    <!-- ==========  PROJECT 4  ============== -->
+    <!-- ===================================== -->
+      <tr>
     <td align="center">
       <a href="https://github.com/wassimcodes/RTS-navigation-system" target="_blank">
         <img src="https://raw.githubusercontent.com/wassimcodes/wassimcodes/main/Resources/rtsnavigation-modified.png" width="325" height="250" alt="RTS Navigation System - Unity">
