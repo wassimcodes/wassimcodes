@@ -5,8 +5,6 @@
 * Developed 9 small games, including 5 game jam projects
 * Implemented gameplay systems including state machines, character controllers, physics-based mechanics, object pooling, AI behaviors, and UI systems
 * Strong focus on clean architecture, modular design, debugging complex interactions, and writing maintainable, scalable code
-* Experience balancing performance and flexibility, particularly in real-time gameplay systems
-* Comfortable collaborating in team environments using version control and iterative workflows
 * Documenting technical growth and problem-solving process on YouTube
 
 <h3 align="left">Socials:</h3>
