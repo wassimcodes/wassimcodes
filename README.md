@@ -10,20 +10,27 @@
 * Documenting technical growth and problem-solving process on YouTube
 
 <h3 align="left">Socials:</h3>
-<div style="display: flex; justify-content: space-between; width: 160px;">
-  <a href="https://www.youtube.com/channel/UC2QMwZIIqTGPIH0ZSqWJ1EQ" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="iamwassim" style="width: 30px; height: 30px; object-fit: contain;" />
+<p align="left">
+  <a href="mailto:wassimcontact@proton.me">
+    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/email.png?raw=true" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/wassim-ouled-mohamed/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Wassim Ouled Mohamed" style="width: 30px; height: 30px; object-fit: contain;" />
+
+  <a href="https://iamwassim.itch.io" target="_blank">
+    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/itchio.png?raw=true" width="40" />
   </a>
-  <a href="mailto:wassimcontact@proton.me" target="_blank" style="text-decoration: none;">
-    <img src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="iamawssimd" style="width: 30px; height: 30px; object-fit: contain;" />
+
+  <a href="https://x.com/iamwassim_" target="_blank">
+    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/x.png?raw=true" width="40" />
   </a>
-  <a href="https://iamwassim.itch.io" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/itchio/itch/blob/master/src/static/images/logos/itchio-textless-pink.svg" alt="Wassim Ouled Mohamed" style="width: 30px; height: 30px; object-fit: contain;" />
+
+  <a href="https://www.linkedin.com/in/wassim-ouled-mohamed/" target="_blank">
+    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/linkedin.png?raw=true" width="40" />
   </a>
-</div>
+
+  <a href="https://www.youtube.com/@IamWassim" target="_blank">
+    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/youtube.png?raw=true" width="40" />
+  </a>
+</p>
 
 <div align="center">
   <h1>My Games</h1>
@@ -35,7 +42,7 @@
     <!-- Game 1 -->
     <td align="center">
       <a href="https://lord-baby69.itch.io/a-bad-hand" target="_blank">
-        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/EndlessWheels-modified.png" width="325" height="250" />
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/BADHAND-modified.png" width="325" height="250" />
       </a>
       <br>
       <strong>A Bad Hand</strong>
