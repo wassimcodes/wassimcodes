@@ -1,9 +1,13 @@
 # **Profile**
 
-- Game programmer, gamer, and bookworm.
-- Experienced in Unreal Engine and Unity.
-- Developed 8 small games (4 game jams).
-- Document my progress on Youtube.
+* Gameplay programmer with hands-on experience in Unreal Engine (C++) and Unity (C#)
+* Experimenting with game engines since 2022, transitioned to a production-focused and disciplined approach in 2024
+* Developed 9 small games, including 5 game jam projects
+* Implemented gameplay systems including state machines, character controllers, physics-based mechanics, object pooling, AI behaviors, and UI systems
+* Strong focus on clean architecture, modular design, debugging complex interactions, and writing maintainable, scalable code
+* Experience balancing performance and flexibility, particularly in real-time gameplay systems
+* Comfortable collaborating in team environments using version control and iterative workflows
+* Documenting technical growth and problem-solving process on YouTube
 
 <h3 align="left">Socials:</h3>
 <div style="display: flex; justify-content: space-between; width: 160px;">
@@ -26,121 +30,107 @@
 </div>
 
 <table>
+  <!-- Row 1 -->
   <tr>
     <!-- Game 1 -->
+    <td align="center">
+      <a href="https://lord-baby69.itch.io/a-bad-hand" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/EndlessWheels-modified.png" width="325" height="250" />
+      </a>
+      <br>
+      <strong>A Bad Hand</strong>
+      <br>
+      <span>McGameJam, Unity, C#, Teamwork</span>
+    </td>
+    <!-- Game 2 -->
     <td align="center">
       <a href="https://iamwassim.itch.io/endless-wheels" target="_blank">
         <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/EndlessWheels-modified.png" width="325" height="250" />
       </a>
       <br>
-      <a href="https://iamwassim.itch.io/endless-wheels" target="_blank" style="color: inherit; text-decoration: none;">
-        <strong>Endless Wheels</strong>
-      </a>
+      <strong>Endless Wheels</strong>
       <br>
       <span>Unreal Engine 5, Blueprints, C++, Blender</span>
     </td>
-    <!-- Game 2 -->
+    <!-- Game 3 -->
     <td align="center">
       <a href="https://iamwassim.itch.io/kingdom-tiles" target="_blank">
         <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/PinkCastle-modified.png" width="325" height="250" />
       </a>
       <br>
-      <a href="https://iamwassim.itch.io/kingdom-tiles" target="_blank" style="color: inherit; text-decoration: none;">
-        <strong>Kingdom Tiles</strong>
-      </a>
+      <strong>Kingdom Tiles</strong>
       <br>
-      <span>Creative Jam 1st Place, Team Collaboration, Unity, C#</span>
+      <span>Creative Jam 1st Place, Unity, C#, Team Collaboration</span>
     </td>
   </tr>
-<!-- Row 2 -->
-<tr>
-    <!-- game 3 -->
-  <td align="center">
+  <!-- Row 2 -->
+  <tr>
+    <!-- Game 4 -->
+    <td align="center">
       <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank">
         <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/clairestinyworkshop.png" width="325" height="250" />
       </a>
       <br>
-      <a href="https://iamwassim.itch.io/claires-tiny-workshop" target="_blank" style="color: inherit; text-decoration: none;">
-        <strong>Claire's Tiny Workshop</strong>
+      <strong>Claire's Tiny Workshop</strong>
+      <br>
+      <span>Unity, C#, Blender, Substance Painter</span>
+    </td>
+    <!-- Game 5 -->
+    <td align="center">
+      <a href="https://iamwassim.itch.io/it-goes-on" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/itgoesoncover.png" width="325" height="250" />
       </a>
       <br>
-      <span>Unity, C#, Game Jam 13th Place, Blender, Substance Painter</span>
-    </td>
-      <!-- game 4 -->
-  <td align="center">
-    <a href="https://iamwassim.itch.io/it-goes-on" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/itgoesoncover.png" width="325" height="250" />
-    </a>
-    <br>
-    <a href="https://iamwassim.itch.io/it-goes-on" target="_blank" style="color: inherit; text-decoration: none;">
       <strong>It Goes On</strong>
-    </a>
-    <br>
-    <span>Unity, C#, Blender, GMTK 2025</span>
-  </td>
-  <tr>
-    <!-- Row 3 -->
-<tr>
-<!-- game 5 -->
-  <td align="center">
-    <a href="https://iamwassim.itch.io/mars-is-mine" target="_blank">
-      <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover2-modified.png" width="325" height="250" />
-    </a>
-    <br>
-    <a href="https://iamwassim.itch.io/mars-is-mine" target="_blank" style="color: inherit; text-decoration: none;">
+      <br>
+      <span>Unity, C#, Blender, GMTK 2025</span>
+    </td>
+    <!-- Game 6 -->
+    <td align="center">
+      <a href="https://iamwassim.itch.io/mars-is-mine" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover2-modified.png" width="325" height="250" />
+      </a>
+      <br>
       <strong>Mars is Mine</strong>
-    </a>
-    <br>
-    <span>Unity, C#, Object Pooling, Blender, Substance Painter</span>
-  </td>
-<!-- game 6 -->
-  <td align="center">
-  <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank">
-    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modifsied.png?raw=true" width="325" height="250" style="object-fit: contain;" />
-  </a>
-  <br>
-  <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank" style="color: inherit; text-decoration: none;">
-    <strong>One Wheel Meal</strong>
-  </a>
-  <br>
-  <span>Game Jam 5th place, Unity, Physics, C#, Blender, Substance Painter</span>
-</td>
-    <!-- Row 4 -->
-<tr>
-<!-- game 7 -->
-  <td align="center">
-  <a href="https://iamwassim.itch.io/yappy-cafe" target="_blank">
-    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modified.png?raw=true"
-         width="325" height="250" style="object-fit: contain;" />
-  </a>
-  <br>
-  <a href="https://iamwassim.itch.io/yappy-cafe" target="_blank" style="color: inherit; text-decoration: none;">
-    <strong>Yappy Café</strong>
-  </a>
-  <br>
-  <span>Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
-</td>
-<!-- game 8 -->
-<td align="center">
-  <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank">
-    <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GregCover2-modified.png?raw=true"
-         width="325" height="250" style="object-fit: contain;" />
-  </a>
-  <br>
-  <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank" style="color: inherit; text-decoration: none;">
-    <strong>Greg the Glider</strong>
-  </a>
-  <br>
-  <span>Unity, C#, Unity Shader Graph, Blender, Substance Painter</span>
-      <!-- Row 5 -->
-</td>
-<!-- game 9 -->
+      <br>
+      <span>Unity, C#, Object Pooling, Blender, Substance Painter</span>
+    </td>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <!-- Game 7 -->
+    <td align="center">
+      <a href="https://iamwassim.itch.io/one-wheel-meal" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modifsied.png?raw=true" width="325" height="250" />
+      </a>
+      <br>
+      <strong>One Wheel Meal</strong>
+      <br>
+      <span>Game Jam 5th Place, Unity, Physics, C#, Blender</span>
+    </td>
+    <!-- Game 8 -->
+    <td align="center">
+      <a href="https://iamwassim.itch.io/yappy-cafe" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GameCover-modified.png?raw=true" width="325" height="250" />
+      </a>
+      <br>
+      <strong>Yappy Café</strong>
+      <br>
+      <span>Unity, C#, Shader Graph, Blender, Substance Painter</span>
+    </td>
+    <!-- Game 9 -->
+    <td align="center">
+      <a href="https://iamwassim.itch.io/greg-the-glider" target="_blank">
+        <img src="https://github.com/wassimcodes/wassimcodes/blob/main/Resources/GregCover2-modified.png?raw=true" width="325" height="250" />
+      </a>
+      <br>
+      <strong>Greg the Glider</strong>
+      <br>
+      <span>Unity, C#, Shader Graph, Blender, Substance Painter</span>
+    </td>
+  </tr>
 
-
-<!-- at the end -->
-<tr>
 </table>
-
 
 <div align="center">
   <h1>Technical Experiments</h1>
