@@ -1,6 +1,6 @@
 # **Profile**
 
-* Gameplay programmer with hands-on experience in Unreal Engine (C++) and Unity (C#)
+* Game programmer with hands-on experience in Unreal Engine (C++) and Unity (C#)
 * Experimenting with game engines since 2022, began pursuing game development professionally in 2024
 * Developed 10 small games, including 5 game jam projects
 * Strong focus on clean architecture, modular design, debugging complex interactions, and writing maintainable, scalable code
